@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# This build specification is part of the source, not generated output.
+!MusicPlayer.spec
+# Release bundles and diagnostic test reports
+release/
+self-test.json
