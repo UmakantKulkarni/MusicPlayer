@@ -6,7 +6,7 @@ A Python desktop music player built with **Tkinter**, **SQLite**, **pygame-ce / 
 
 ## Run the Windows application
 
-Use **Windows 10 or 11, 64-bit**. Extract `MusicPlayer-Windows-x64.zip` and open `MusicPlayer.exe` inside the MusicPlayer folder. Keep the source and license archives with the application when sharing it. Python does not need to be installed. The single-file app extracts its bundled runtime into your temporary directory at launch, so the first launch may take a few seconds.
+Use **Windows 10 or 11, 64-bit**. Download [deliverables/MusicPlayer.exe](deliverables/MusicPlayer.exe) with GitHub’s **Download raw file** button and open it. To download everything together, choose **Code → Download ZIP** on the repository page; the EXE is inside `deliverables/`. Keep the source and the `third_party/` license notices with the application when sharing it. Python does not need to be installed. The single-file app extracts its bundled runtime into your temporary directory at launch, so the first launch may take a few seconds.
 
 The executable is unsigned. Windows may show a SmartScreen reputation warning; an organization distributing it broadly should sign it with its own trusted code-signing certificate. Company device policy may require IT approval.
 

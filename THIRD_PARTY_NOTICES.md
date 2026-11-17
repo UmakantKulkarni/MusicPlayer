@@ -1,7 +1,8 @@
 # Third-party components
 
 The executable bundles Python and libraries. Their license notices are included in
-`THIRD_PARTY_LICENSES.zip` in the distribution; keep that archive with redistributions.
+`third_party/` in this repository; keep those notices with redistributions. Locally
+generated distribution bundles also contain `THIRD_PARTY_LICENSES.zip`.
 
 - CPython / Tcl / Tk: Python Software Foundation and Tcl/Tk licenses.
 - pygame-ce / SDL_mixer and their codec libraries: pygame-ce is LGPL-2.1-or-later; bundled SDL libraries and codecs have their own licenses. See the included pygame-ce license directory.
